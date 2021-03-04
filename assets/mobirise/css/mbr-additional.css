@@ -1601,7 +1601,7 @@ a {
   color: #22a5e5;
 }
 .cid-sqIfe6Qv1h {
-  padding-top: 1rem;
+  padding-top: 2rem;
   padding-bottom: 1rem;
   background-color: #fafafa;
 }
@@ -1611,6 +1611,7 @@ a {
 .cid-sqIfe6Qv1h .card-wrapper {
   background-color: #ffffff;
   border-radius: 4px;
+  background-color: transparent;
 }
 .cid-sqIfe6Qv1h .image-wrapper img {
   width: 100%;
